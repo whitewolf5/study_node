@@ -1,0 +1,16 @@
+C:\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+\\Mac\Home\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+\\Mac\Home\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+\\Mac\Home\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+\\Mac\Home\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+Z:\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+Z:\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+Z:\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+Z:\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+Z:\Desktop\workspace\TestProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
